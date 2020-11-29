@@ -7,6 +7,7 @@ The proposed training pipeline stood 3rd in the **[Cooking Activity Recognition 
 ## Summary
 Complex activity recognition using multiple on-body sensors is challenging due to missing samples, misaligned data times tamps across sensors, and variations in sampling rates. In this paper, we introduce a robust training pipeline that handles sampling rate variability, missing data, and misaligned data time stamps using intelligent data augmentation techniques. Specifically, we use controlled jitter in window length and add artificial misalignments in data timestamps between sensors, along with masking representations of missing data. We evaluate our pipeline on the Cooking Activity Dataset with Macro and Micro Activities, benchmarking the performance of deep convolutional bidirectional long short-term memory (DCBL) classifier. In our evaluations, DCBL achieves test accuracies of 88% and 72%, respectively, for macro- and micro-activity classifications, exceeding performance over state-of-the-art vanilla activity classifiers.
 
+![Device_Image](Overall_Cook_2.jpg)
 
 ## Data Details
 For raw dataset usage guide for the data used for benchmarking, please visit the **[Cooking Activity Recognition Challenge](https://abc-research.github.io/cook2020/)** website.
