@@ -1,6 +1,6 @@
 # Deep Convolutional Bidirectional LSTM for Complex Activity Recognition with Missing Data
 
-This repo contains sample code for training deep learning pipelines on data containing missing and misaligned samples, noisy artefacts and data with variable sampling rates, intended for complex event processing. We have benchmarked the pipeline on complex activity recognition using the Cooking Activity Recognition Dataset. [**[Paper](https://www.researchgate.net/publication/341055525_Deep_Convolutional_Bidirectional_LSTM_for_Complex_Activity_Recognition_with_Missing_Data)**] [**[Slides](https://drive.google.com/file/d/1UDM38jvAkwiQRNNMcIAKhnV3b-qJigyF/view)**] [**[Presentation Video](https://www.youtube.com/watch?v=rAgnfvsDK-o)**]
+This repo contains sample code for training deep learning pipelines on data containing missing and misaligned samples, noisy artifacts and data with variable sampling rates, intended for complex event processing. We have benchmarked the pipeline on complex activity recognition using the Cooking Activity Recognition Dataset. [**[Paper](https://www.researchgate.net/publication/341055525_Deep_Convolutional_Bidirectional_LSTM_for_Complex_Activity_Recognition_with_Missing_Data)**] [**[Slides](https://drive.google.com/file/d/1UDM38jvAkwiQRNNMcIAKhnV3b-qJigyF/view)**] [**[Presentation Video](https://www.youtube.com/watch?v=rAgnfvsDK-o)**]
 
 The proposed training pipeline stood 3rd in the **[Cooking Activity Recognition Challenge](https://abc-research.github.io/cook2020/)** out of 78 teams.
 
